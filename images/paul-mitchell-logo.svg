@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96.0" height="21.0" viewBox="0 0 96.0 21.0" role="img" aria-label="Paul Mitchell logo">
+  <title>Paul Mitchell</title>
+  <desc>Single-line wordmark in the same colour and size as the provided logo.</desc>
+  <rect width="100%" height="100%" fill="none"/>
+  <text x="48.0" y="10.5" text-anchor="middle" dominant-baseline="central"
+        fill="#FEF5E4" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700"
+        font-size="10.5">Paul Mitchell</text>
+</svg>
